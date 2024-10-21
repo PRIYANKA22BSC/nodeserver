@@ -67,7 +67,7 @@ To run this project, make sure you have **Node.js** installed. You can download 
 ## Screenshots
 
 <div  style="display: flex; justify-content: space-evenly; gap: 20px;">
-![image](https://github.com/user-attachments/assets/e8e37fa7-ca6f-4709-832b-c522b92fd2f2)
+<img src="https://github.com/user-attachments/assets/e8e37fa7-ca6f-4709-832b-c522b92fd2f2" alt="homepage img";
   
 </div>
 https://nks22b
