@@ -1,6 +1,6 @@
 # NodeServe
 
-Live Demo-nodeserver-gamma.vercel.app
+**Live Demo**:[Demo Link](nodeserver-gamma.vercel.app)
 
 ## Introduction
 
@@ -21,14 +21,45 @@ NodeServe is a simple Node.js-based website that demonstrates the use of the HTT
 - JavaScript: For server-side routing logic
 - HTTP Module: Built-in Node.js module to handle requests and responses
 
-## Project Structure
+  ## Prerequisites 📋
+To run this project, make sure you have **Node.js** installed. You can download it from [Node.js Official Website]( https://nodejs.org/).
 
-NodeServe/
+
+  
+## Installation 
+
+
+1. Clone the repository:
+
+   
+    ```bash
+    git clone https://github.com/your-username/NodeServe.git
+    ```
+
+    2. Navigate to the project folder:
+
+    ```bash
+    cd simple-web-server-using-node
+    ```
+
+3. Install any required dependencies (if applicable):
+
+    ```bash
+    npm install
+    ```
+
+
+## File Structure 📁
+
+```plaintext
+.
+├NodeServe/       #Main folder
 ├── pages/
-│   ├── home.html
-│   ├── about.html
-│   ├── contact.html
-│   └── 404.html
-├── server.js
-├── package.json
+│   ├── home.html    #Home Page
+│   ├── about.html   #About Page
+│   ├── contact.html #Contact Page
+│   └── 404.html     # Custom 404 error page
+├── server.js        # Main server file
+├── package.json     Package json file
 └── README.md
+
