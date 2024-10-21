@@ -67,10 +67,15 @@ To run this project, make sure you have **Node.js** installed. You can download 
 ## Screenshots
 
 <div  style="display: flex; justify-content: space-evenly; gap: 20px;">
+  - Home page
 <img src="https://github.com/user-attachments/assets/e8e37fa7-ca6f-4709-832b-c522b92fd2f2" alt="homepage img">;
+   - About page
 <img src="https://github.com/user-attachments/assets/af0802ad-9043-40cd-94de-3a59da8a8365" alt="aboutpage img">;
+   - Course page
 <img src="https://github.com/user-attachments/assets/1513576f-cbab-4bf3-91af-b65a0b18d268" alt="coursepage img">;
+   - Blog page
 <img src="https://github.com/user-attachments/assets/571055d7-e87f-4fa0-a58a-69043b3c7728" alt="blogpage img">;
+   - Contact page
 <img src="https://github.com/user-attachments/assets/1f730a5a-47ab-4747-aaa6-449cf55b0db0" alt="contactpage img">;
 </div>
 https://nks22b
